@@ -2,6 +2,7 @@ body {
     font-family: 'poppins';
     margin: 0;
 }
+/* Welcome Area CSS */
 .orange-color {
     color:orange;
 }
@@ -37,4 +38,20 @@ border-radius: 5px;
 }
 .half-width {
  width: 50%;  
+}
+/* Dream Area CSS */
+.dream-section a { 
+  text-transform: uppercase; 
+  
+}
+.dream-section h3 {
+    color: #F57D1F;
+}
+
+
+.experiance-list {
+    margin: 50px ;
+   padding: 20px; 
+   border-left: 5px solid #F57D1F;
+   box-shadow: 1px 2px 20px; 
 }
